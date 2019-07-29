@@ -1,7 +1,7 @@
 # Sample-Eclipse-MicroProfile
 
 - Eclipse MicroProfile is an eclipse org initiative. 
-- This is mainly used to developed CNI based application. 
+- This is mainly used to developed cloud native based application. 
 - This uses all JEE stack 
 
 ### Pre-requisite
